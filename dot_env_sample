@@ -1,0 +1,6 @@
+# .env sample
+DEFECTDOJO_BASE_URL="http://localhost:8080/api/v2/"
+DEFECTDOJO_API_KEY="see http://localhost:8080/api/key-v2"
+NESSUS_BASE_URL = "https://localhost:8834"
+NESSUS_ACCESS_KEY="see https://localhost:8834/#/settings/my-account/api-keys"
+NESSUS_SECRET_KEY="see https://localhost:8834/#/settings/my-account/api-keys"
